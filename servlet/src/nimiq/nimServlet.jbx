@@ -1,0 +1,19 @@
+[PropertyInfo]
+action,String,false,false, , ,false,<default>
+erroreServer,String,false,false, , ,false,<default>
+id,String,false,false, , ,false,<default>
+isDebug,boolean,false,false, , ,false,<default>
+isInfo,boolean,false,false, , ,false,<default>
+isInvia,boolean,false,false, , ,false,<default>
+msgHttpRisposta,javax.servlet.http.HttpServletResponse,false,false, , ,false,<default>
+num,String,false,false, , ,false,<default>
+outHtml,java.io.PrintWriter,false,false, , ,false,<default>
+pw,String,false,false, , ,false,<default>
+smsRimanenti,String,false,false, , ,false,<default>
+smsStatus,String,false,false, , ,false,<default>
+txt,String,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
